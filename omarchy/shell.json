@@ -1,0 +1,160 @@
+{
+  "bar": {
+    "background": "opaque",
+    "layout": {
+      "center": [
+        {
+          "id": "io.github.alvmarrod.stocks"
+        },
+        {
+          "format": "dddd h:mm:ss AP",
+          "formatAlt": "d MMMM 'W'ww yyyy",
+          "id": "omarchy.clock",
+          "verticalFormat": "HH\n—\nmm"
+        }
+      ],
+      "centerBegin": [
+        {
+          "id": "omarchy.indicators"
+        }
+      ],
+      "centerEnd": [
+        {
+          "cities": [
+            {
+              "name": "Toronto",
+              "zone": "America/Toronto"
+            },
+            {
+              "lat": 49.24966,
+              "lon": -123.11934,
+              "name": "Vancouver",
+              "region": "British Columbia, CA",
+              "zone": "America/Vancouver"
+            },
+            {
+              "name": "New York",
+              "zone": "America/New_York"
+            },
+            {
+              "lat": 38.62753,
+              "lon": -92.56658,
+              "name": "California",
+              "region": "Missouri, US",
+              "zone": "America/Chicago"
+            }
+          ],
+          "id": "omarchy.elsewhen"
+        },
+        {
+          "id": "omarchy.weather"
+        },
+        {
+          "id": "io.github.ruffbudda.sticky-notes"
+        },
+        {
+          "id": "aitor.home-browser"
+        },
+        {
+          "id": "omarchy.spacer"
+        },
+        {
+          "id": "omarchy.system-update"
+        }
+      ],
+      "left": [
+        {
+          "id": "omarchy.workspaces"
+        },
+        {
+          "id": "io.github.polidog.windowmap"
+        },
+        {
+          "id": "omarchy.menu"
+        }
+      ],
+      "right": [
+        {
+          "id": "omarchy.tray"
+        },
+        {
+          "id": "gladimdim.config-sync"
+        },
+        {
+          "id": "omarchy.keyboard-layout"
+        },
+        {
+          "id": "omarchy.agents"
+        },
+        {
+          "id": "omarchy.bluetooth"
+        },
+        {
+          "id": "omarchy.network"
+        },
+        {
+          "id": "omarchy.audio"
+        },
+        {
+          "id": "omarchy.power"
+        }
+      ],
+      "tray": [
+        {
+          "id": "navjottomer.printer"
+        },
+        {
+          "id": "superwhisper.panel"
+        },
+        {
+          "id": "corico.monitor"
+        }
+      ]
+    },
+    "position": "top"
+  },
+  "cloneSourceRestores": [
+    "io.github.sirjul1337.lock-explorer"
+  ],
+  "disabledPlugins": [
+    "omarchy.lock"
+  ],
+  "dock": {
+    "autohide": false,
+    "pinned": [
+      "io.github.lgse.Strata",
+      "foot",
+      "omacalc",
+      "postman",
+      "tableplus",
+      "slack",
+      "X",
+      "YouTube",
+      "WhatsApp",
+      "Google Sheets",
+      "google-chrome",
+      "Bookfusion"
+    ],
+    "position": "bottom"
+  },
+  "idle": {
+    "lock": 300,
+    "screensaver": 150
+  },
+  "plugins": [
+    {
+      "boot": "follow",
+      "design": "weather",
+      "id": "io.github.sirjul1337.lock-explorer",
+      "openAs": "panel",
+      "tourSeen": true
+    },
+    {
+      "id": "io.github.prostratepossum.living-intro"
+    },
+    {
+      "id": "expose.window-overview"
+    }
+  ],
+  "version": 1
+}

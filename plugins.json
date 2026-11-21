@@ -1,0 +1,69 @@
+{
+  "format": "omarchy-config-plugins",
+  "version": 1,
+  "plugins": [
+    {
+      "id": "aitor.home-browser",
+      "name": "Home Browser",
+      "version": "1.1.0",
+      "commit": "bb29279db93a139df091d4356dd13c7c2224502b",
+      "source": "https://github.com/aitorcalero/omarchy-home-browser.git"
+    },
+    {
+      "id": "corico.monitor",
+      "name": "Display",
+      "version": "1.0.0",
+      "commit": "3dbf1d07e1d09c352eac5bcb7e48557c9835f2f9",
+      "source": "https://github.com/coricogit/corico.monitor.git"
+    },
+    {
+      "id": "expose.window-overview",
+      "name": "Exposé",
+      "version": "6.0.1",
+      "commit": "5f3d76d629eeeb717023ba169116995c0366511c",
+      "source": "https://github.com/kristofferR/omarchy-expose.git"
+    },
+    {
+      "id": "io.github.alvmarrod.stocks",
+      "name": "Stocks",
+      "version": "1.2.2",
+      "commit": "38583bed8e05581dd698ff58453606a1cc13bdba",
+      "source": "https://github.com/alvmarrod/omarchy-stocks.git"
+    },
+    {
+      "id": "io.github.polidog.windowmap",
+      "name": "Window Map",
+      "version": "0.1.1",
+      "commit": "cc1e647369ffb57abe77a21e3671be12f4598507",
+      "source": "https://github.com/polidog/omarchy-plugin-windowmap.git"
+    },
+    {
+      "id": "io.github.prostratepossum.living-intro",
+      "name": "Living Themes Login Intro",
+      "version": "1.0.0",
+      "commit": "87dd747a746e6d150d3bd792e384454d02c1c20c",
+      "source": "https://github.com/prostratepossum/omarchy-living-intro.git"
+    },
+    {
+      "id": "io.github.ruffbudda.sticky-notes",
+      "name": "Sticky Notes",
+      "version": "2.2.1",
+      "commit": "f330510a8417aa6601b893b5a6d6a161168f3688",
+      "source": "https://github.com/RuffBudda/omarchy-sticky-notes.git"
+    },
+    {
+      "id": "io.github.sirjul1337.lock-explorer",
+      "name": "Lock Screen Explorer",
+      "version": "2.0.13",
+      "commit": "dfd252aa1242fda2c1796494232d05584921fb3c",
+      "source": "https://github.com/SirJul1337/omarchy-lock-explorer.git"
+    },
+    {
+      "id": "navjottomer.printer",
+      "name": "Printer",
+      "version": "1.1.5",
+      "commit": "402863cf09cee87b91a2134de467f49e3c5808e6",
+      "source": "https://github.com/navjottomer/omarchy-printer.git"
+    }
+  ]
+}

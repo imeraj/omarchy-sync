@@ -1,6 +1,6 @@
 {
   "bar": {
-    "background": "opaque",
+    "background": "none",
     "layout": {
       "center": [
         {
@@ -78,6 +78,9 @@
           "id": "omarchy.tray"
         },
         {
+          "id": "com.atomsprout.scriptwidget"
+        },
+        {
           "id": "gladimdim.config-sync"
         },
         {
@@ -126,14 +129,14 @@
       "foot",
       "omacalc",
       "postman",
-      "tableplus",
       "slack",
       "X",
       "YouTube",
       "WhatsApp",
       "Google Sheets",
       "google-chrome",
-      "Bookfusion"
+      "Bookfusion",
+      "pgjumbo"
     ],
     "position": "bottom"
   },

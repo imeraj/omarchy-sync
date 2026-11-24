@@ -31,6 +31,13 @@
       "source": "https://github.com/alvmarrod/omarchy-stocks.git"
     },
     {
+      "id": "io.github.felipecpaiva.omaplace",
+      "name": "omaplace",
+      "version": "0.3.0",
+      "commit": "a34fb55f270b6026029d88425ebd58dd83ddd0c5",
+      "source": "https://github.com/felipecpaiva/omaplace"
+    },
+    {
       "id": "io.github.polidog.windowmap",
       "name": "Window Map",
       "version": "0.1.1",

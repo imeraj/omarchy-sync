@@ -1,13 +1,13 @@
 {
   "bar": {
-    "background": "none",
+    "background": "glassy",
     "layout": {
       "center": [
         {
           "id": "io.github.alvmarrod.stocks"
         },
         {
-          "format": "dddd h:mm:ss AP",
+          "format": "HH:mm",
           "formatAlt": "d MMMM 'W'ww yyyy",
           "id": "omarchy.clock",
           "verticalFormat": "HH\n—\nmm"
@@ -136,7 +136,8 @@
       "Google Sheets",
       "google-chrome",
       "Bookfusion",
-      "pgjumbo"
+      "pgjumbo",
+      "omaplace-settings"
     ],
     "position": "bottom"
   },
@@ -157,6 +158,9 @@
     },
     {
       "id": "expose.window-overview"
+    },
+    {
+      "id": "io.github.felipecpaiva.omaplace"
     }
   ],
   "version": 1
